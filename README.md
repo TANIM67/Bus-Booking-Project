@@ -1,1 +1,1 @@
-This is a Bus Management Project with GUI in C++. This is a created in QT Creator. You can watch the full video about this project here : https://drive.google.com/file/d/1pD8klRbI1K6mtasxs9vg01s8h7hhz77V/view?usp=sharing
+This is a Bus Management Project with GUI in C++. This is created in QT Creator. You can watch the full video about this project here : https://drive.google.com/file/d/1pD8klRbI1K6mtasxs9vg01s8h7hhz77V/view?usp=sharing
